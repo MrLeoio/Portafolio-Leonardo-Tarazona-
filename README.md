@@ -10,8 +10,6 @@ Me gusta crear soluciones que mezclen **lógica, diseño y eficiencia**, aplican
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-33CCFF?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-72CB10?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FF8000?style=for-the-badge&logo=Java&logoColor=white)
