@@ -109,6 +109,7 @@ Python · Pandas · PyQt
 ---
 
 ## 📫 Contacto
+📱 Telefono: (+57 3144862029)
 
 📧 Correo: [Leonfuentes301014@gmail.com](mailto:Leonfuentes301014@gmail.com)
 
@@ -118,13 +119,6 @@ Python · Pandas · PyQt
 🐙 GitHub:
 https://github.com/MrLeoi0
 
----
-
-## 📊 Estadísticas
-
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrLeoi0\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrLeoi0\&layout=compact\&theme=tokyonight)
 
 ---
 
