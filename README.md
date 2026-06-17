@@ -1,48 +1,131 @@
-# 👋 ¡Hola! Soy Leo
+# 👋 ¡Hola! Soy Leonardo Tarazona
 
-Soy estudiante de programación y un apasionado por la tecnología y la automatización.
-Me gusta crear soluciones que mezclen **lógica, diseño y eficiencia**, aplicando lo que aprendo en proyectos reales mientras sigo creciendo como desarrollador.
+### 🚀 Desarrollador Full Stack en formación | Técnico en Programación de Aplicaciones para Dispositivos Móviles
 
----
+Me apasiona crear soluciones tecnológicas que generen impacto real. He participado en proyectos de automatización empresarial, desarrollo web, aplicaciones móviles e integración de sistemas, aplicando tecnologías modernas para optimizar procesos y mejorar la experiencia de los usuarios.
 
-## 🧠 Tecnologías que estoy aprendiendo
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-33CCFF?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-72CB10?style=for-the-badge&logo=Node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF8000?style=for-the-badge&logo=Java&logoColor=white)
-![Android_Studio](https://img.shields.io/badge/Android%20Studio-D3D3D3?style=for-the-badge&logo=Android%20Studio&logoColor=green)
+Actualmente estoy fortaleciendo mis habilidades como Desarrollador Full Stack, especializándome en tecnologías frontend y backend para construir aplicaciones escalables, mantenibles y orientadas a resultados.
 
 ---
 
-## 🧰 Proyectos
-| Proyecto | Descripción | Tecnologías |
-|-----------|--------------|--------------|
-| [Curso-Hello-Git-y-Github](https://github.com/MrLeoi0/Curso-Hello-Git-y-Github) | Primer repositorio para practicar Git y GitHub | Git, Markdown |
-| App Home Spa | Aplicación móvil para reservas de spa a domicilio | Android Studio, Firebase |
-|  Modulos Alopolis | Durante un tiempo colabore con una empresa canadiense aportando con la creacion de modulos importantes dentro de proyectos de desarrollados por la empresa | Flutterflow, Firebase  |
-| Recordatorio Geovictoria | Software hecho para que sirva como complemento de una app de  | Python(Pywhatkit, pandas, PyQt) |
-| (Próximamente) Automatización Leon Leon  | Proyecto en desarrollo que busca automatizar los procesos de una empresa de logística, área por área, con enfoque en eficiencia y control. | Node.js, Firebase |
-| (Proximamente) Proyectos de seminario de lenguaje c con code block | Formación continua en programación estructurada y optimización de código usando Code::Blocks. | C, Code::blocks
+## 🚀 Stack Tecnológico
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+### Bases de Datos
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### Herramientas y Desarrollo Móvil
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 
 ---
 
-## 🌱 En qué estoy trabajando ahora
-- Aprendiendo **lenguaje C** y fortaleciendo bases en programación estructurada.  
-- Mejorando mis habilidades con **Git y GitHub**.  
-- Construyendo mi portafolio con proyectos reales.
-- Tambien me gustaria resaltar que me encuentro desarrollando una app para hacer automatizacion de procesos que se hacen completamente manuales utilizando tecnologias como **node.js, python, Firebase y otras tecnologias** 
+## 💼 Experiencia y Proyectos Destacados
+
+### 🏢 Automatización Empresarial - Proyecto Gane
+
+Participación en el desarrollo de soluciones tecnológicas orientadas a la optimización de procesos empresariales.
+
+#### Contribuciones:
+
+* Automatización de procesos mediante WhatsApp.
+* Desarrollo de herramientas internas para gestión operativa.
+* Creación de formularios y módulos web.
+* Integración con bases de datos.
+* Desarrollo de portal web administrativo.
+* Implementación de módulo WiFi Cautivo.
+* Optimización de procesos manuales mediante automatización.
+
+**Tecnologías utilizadas:**
+Python · JavaScript · Firebase · APIs · Git · GitHub
 
 ---
 
-## 📫 Cómo contactarme
-📧 Email: *[Leonfuentes301014@gmail.com]*  
-📞 Telefono *[ +57 3144862029]*  
-💬 LinkedIn: *(www.linkedin.com/in/leonardo-sneyder-tarazona-fuentes-658743286)*  
+### 💆 Home Spa
+
+Aplicación móvil para la gestión y reserva de servicios de spa a domicilio.
+
+**Tecnologías:**
+Android Studio · Firebase
 
 ---
 
-⭐️ *“El código es el arte de crear orden a partir del caos.”*  
+### 🌎 Alopolis
 
+Participación en el desarrollo de módulos para proyectos empresariales internacionales.
+
+**Tecnologías:**
+FlutterFlow · Firebase
+
+---
+
+### 📊 Recordatorio Geovictoria
+
+Aplicación desarrollada para complementar procesos empresariales mediante automatización y recordatorios.
+
+**Tecnologías:**
+Python · Pandas · PyQt
+
+---
+
+## 🌱 Actualmente Aprendiendo
+
+* Arquitectura Full Stack.
+* Next.js.
+* Tailwind CSS.
+* Python para desarrollo backend.
+* Java para aplicaciones empresariales.
+* Diseño y modelado de bases de datos.
+* Buenas prácticas de desarrollo y arquitectura de software.
+
+---
+
+## 🌎 Idiomas
+
+🇪🇸 Español: Nativo
+
+🇺🇸 Inglés: Básico - Intermedio (A2/B1, actualmente en formación)
+
+---
+
+## 📫 Contacto
+
+📧 Correo: [Leonfuentes301014@gmail.com](mailto:Leonfuentes301014@gmail.com)
+
+💼 LinkedIn:
+[www.linkedin.com/in/leonardo-sneyder-tarazona-fuentes-658743286](http://www.linkedin.com/in/leonardo-sneyder-tarazona-fuentes-658743286)
+
+🐙 GitHub:
+https://github.com/MrLeoi0
+
+---
+
+## 📊 Estadísticas
+
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrLeoi0\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrLeoi0\&layout=compact\&theme=tokyonight)
+
+---
+
+⭐️ *"La mejor manera de aprender a programar es construyendo soluciones reales."*
